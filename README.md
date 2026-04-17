@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sangeetha-rokaa&label=Profile%20views&color=0e75b6&style=flat" alt="sangeetha-rokaa" /> </p>
 
-- 🔭 I’m currently working on **Full stack Blog Website**
+- 🔭 I’m currently working on **Full-stack E-commerce website**
 
 - 🌱 I’m currently learning **Node.js, Figma**
 
